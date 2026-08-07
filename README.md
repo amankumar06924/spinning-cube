@@ -11,7 +11,7 @@ Bresenham's Line Generation Algorithm - https://www.tutorialspoint.com/computer_
  -->
 ## Note
 For the smoothest animation experience, it is recommended to run this project in a Linux terminal or WSL (Windows Subsystem for Linux).
-While the project also runs on Windows, Linux terminals generally provide smoother ANSI escape sequence handling and better frame rendering performance for terminal-based animations.
+While the project also runs on Windows, Linux terminals generally provide smoother ANSI escape sequence handling and better frame rendering performance for terminal-based animations(gcc cube.c -lm -o cube , ./cube).
 
 ## Why this Project?
 For fun.
