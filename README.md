@@ -15,3 +15,5 @@ While the project also runs on Windows, Linux terminals generally provide smooth
 
 ## Why this Project?
 For fun.
+
+<img width="1920" height="1080" alt="Screenshot_2026-10-01_14_12_02" src="https://github.com/user-attachments/assets/a5233ff0-db35-4ea1-a34d-15d1c8e31ec2" />
